@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "file-loader": "^5.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "webpack-dev-server": "^3.10.1",
     "webpack-merge": "^4.2.2"
   }
